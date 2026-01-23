@@ -2,4 +2,4 @@
 
 ## Business Problem
 
-  In recent years, City Hotel and Resort Hotel have seen high
+  In recent years, City Hotel and Resort Hotel have seen high cancellation rates.
