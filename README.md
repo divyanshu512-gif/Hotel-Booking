@@ -1,1 +1,3 @@
-# Hotel-Booking
+# Hotel Booking
+
+## Business Problem
