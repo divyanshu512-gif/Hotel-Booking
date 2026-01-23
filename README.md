@@ -2,4 +2,4 @@
 
 ## Business Problem
 
-  In recent years, City Hotel
+  In recent years, City Hotel and
