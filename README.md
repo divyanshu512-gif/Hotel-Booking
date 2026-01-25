@@ -9,4 +9,4 @@
 ---
 
 ## Assumptions
-**1**. No unusual
+**1**. No unusual occurrences between 
