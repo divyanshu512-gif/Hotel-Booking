@@ -9,4 +9,4 @@
 ---
 
 ## Assumptions
-**1**. No unusual occurrences between 2015 and
+**1**. No unusual occurrences between 2015 and 2017
