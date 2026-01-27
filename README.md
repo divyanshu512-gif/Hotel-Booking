@@ -11,4 +11,4 @@
 ## Assumptions
 **1**. No unusual occurrences between 2015 and 2017 will have a substantial impact on the data used.
 
-**2**. The
+**2**. The information
