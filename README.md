@@ -13,4 +13,4 @@
 
 **2**. The information is still current and can be used to analyze a hotel's possible plans in an efficient manners.
 
-**3**. There are no unanticipated negatives
+**3**. There are no unanticipated negatives to
