@@ -15,4 +15,4 @@
 
 **3**. There are no unanticipated negatives to the hotel employing any advised technique.
 
-**4**. The hotels are not currently
+**4**. The 
