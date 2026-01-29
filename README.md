@@ -17,4 +17,4 @@
 
 **4**. The hotels are not currently using any of the suggested solutions.
 
-**5**.
+**5**. The 
