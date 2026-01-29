@@ -19,4 +19,4 @@
 
 **5**. The biggest factor affecting the effectiveness of earning income is booking cancellations.
 
-**6**.
+**6**. Cancellations
