@@ -16,3 +16,5 @@
 **3**. There are no unanticipated negatives to the hotel employing any advised technique.
 
 **4**. The hotels are not currently using any of the suggested solutions.
+
+**5**
