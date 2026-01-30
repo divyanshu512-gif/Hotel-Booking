@@ -20,3 +20,5 @@
 **5**. The biggest factor affecting the effectiveness of earning income is booking cancellations.
 
 **6**. Cancellations result in vacant rooms for the booked lenght of time.
+
+**7**
