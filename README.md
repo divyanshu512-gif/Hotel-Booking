@@ -27,4 +27,4 @@
 
 ## Research Question
 
-**1**. What
+**1**. What are
