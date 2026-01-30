@@ -21,4 +21,4 @@
 
 **6**. Cancellations result in vacant rooms for the booked lenght of time.
 
-**7**.
+**7**. Clients
