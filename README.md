@@ -21,4 +21,4 @@
 
 **6**. Cancellations result in vacant rooms for the booked lenght of time.
 
-**7**. Clients make hotel reservations the same year they make cancellation
+**7**. Clients make hotel reservations the same year they make cancellation.
