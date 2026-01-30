@@ -27,4 +27,4 @@
 
 ## Research Question
 
-**1**.
+**1**. What
