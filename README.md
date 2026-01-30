@@ -27,4 +27,4 @@
 
 ## Research Question
 
-**1**. What are the variables that affect 
+**1**. What are the variables that affect hotel
