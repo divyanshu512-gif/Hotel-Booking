@@ -27,4 +27,4 @@
 
 ## Research Question
 
-**1**. What are the variables
+**1**. What are the variables that
