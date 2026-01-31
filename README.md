@@ -28,3 +28,5 @@
 ## Research Question
 
 **1**. What are the variables that affect hotel reservation cancellations?
+
+**2**
