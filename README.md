@@ -29,4 +29,4 @@
 
 **1**. What are the variables that affect hotel reservation cancellations?
 
-**2**. How can we make hotel reservations
+**2**. How can we make hotel reservations cancellation
