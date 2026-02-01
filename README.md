@@ -37,4 +37,4 @@
 
 ## Hypothesis
 
-**1**. More cancellations occur when prices are high
+**1**. More cancellations occur when prices are higher
