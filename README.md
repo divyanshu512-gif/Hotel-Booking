@@ -37,4 +37,4 @@
 
 ## Hypothesis
 
-**1**. More cancellations occur when
+**1**. More cancellations occur when price
