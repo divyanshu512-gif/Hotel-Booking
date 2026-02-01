@@ -37,4 +37,4 @@
 
 ## Hypothesis
 
-**1**. More cancellations
+**1**. More cancellations occur
