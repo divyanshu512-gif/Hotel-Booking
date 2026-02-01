@@ -31,4 +31,4 @@
 
 **2**. How can we make hotel reservations cancellations better?
 
-**3**. How will hotels be assisted in making pricing and
+**3**. How will hotels be assisted in making pricing and promotional
