@@ -37,4 +37,4 @@
 
 ## Hypothesis
 
-**1**. More
+**1**. More cancellation
