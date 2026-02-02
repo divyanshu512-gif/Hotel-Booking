@@ -40,3 +40,5 @@
 **1**. More cancellations occur when prices are higher.
 
 **2**. When there is a longer waiting list, customers tend to cancel more frequently.
+
+**3**
