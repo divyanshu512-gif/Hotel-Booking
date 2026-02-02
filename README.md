@@ -41,4 +41,4 @@
 
 **2**. When there is a longer waiting list, customers tend to cancel more frequently.
 
-**3**. The majority of
+**3**. The majority of clients
