@@ -39,4 +39,4 @@
 
 **1**. More cancellations occur when prices are higher.
 
-**2**.
+**2**. When
