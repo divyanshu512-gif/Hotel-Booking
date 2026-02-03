@@ -49,4 +49,4 @@
 
 ![image](https://github.com/divyanshu512-gif/Hotel-Booking/blob/308b0afc88e55e0554bf024a829031ee7db0baae/images/cancelled_perc.png)
 
-The accompanying bar graph shows the percentage of reservations that are canceled and those that
+The accompanying bar graph shows the percentage of reservations that are canceled and those that are
