@@ -45,4 +45,4 @@
 
 ---
 
-## Analysis and Finding
+## Analysis and Findings
