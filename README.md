@@ -52,3 +52,5 @@
 The accompanying bar graph shows the percentage of reservations that are canceled and those that are not.
 It is obvious that there are still a significant number of reservations that have not been canceled.
 There are still 37% of clients who canceled their reservation, which has a significant impact on the hotels' earnings.
+
+![image](https://github.com/divyanshu512-gif/Hotel-Booking/blob/a3c356736937dded00d688579d035efc7f5cc2d7/images/bar_chart.png)
