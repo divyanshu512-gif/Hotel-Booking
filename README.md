@@ -55,4 +55,4 @@ There are still 37% of clients who canceled their reservation, which has a signi
 
 ![image](https://github.com/divyanshu512-gif/Hotel-Booking/blob/a3c356736937dded00d688579d035efc7f5cc2d7/images/bar_chart.png)
 
-In comparison to
+In comparison to resort
