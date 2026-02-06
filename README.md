@@ -63,4 +63,4 @@ In comparison to resort hotels, city hotels have more bookings. It's possible th
 
 ![image](https://github.com/divyanshu512-gif/Hotel-Booking/blob/5d0e04e9f714eded87c8ccb083555f4496282d1c/images/Average%20Daily%20Rate.png)
 
-The line graph above shows that, on certain days, the average
+The line graph above shows that, on certain days, the average daily
