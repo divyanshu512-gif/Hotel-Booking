@@ -57,4 +57,4 @@ There are still 37% of clients who canceled their reservation, which has a signi
 
 In comparison to resort hotels, city hotels have more bookings. It's possible that resort hotels are more expensive than those in cities.
 
-![image]
+![image](https://github.com/divyanshu512-gif/Hotel-Booking/blob/5d0e04e9f714eded87c8ccb083555f4496282d1c/images/Average%20Daily%20Rate.png)
