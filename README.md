@@ -70,4 +70,4 @@ It goes without saying that weekends and holidays may see a rise in resort hotel
 
 ![image](https://github.com/divyanshu512-gif/Hotel-Booking/blob/7208cfd5708864f3ebe0659bbeb857e833a48ad5/images/Reservation%20status%20per%20month.png)
 
-We have developed the grouped bar graph to analyze the months with the highest and lowest reservation
+We have developed the grouped bar graph to analyze the months with the highest and lowest reservation levels according to
