@@ -76,4 +76,4 @@ whereas January is the month with the most canceled reservations.
 
 ---
 
-![image]
+![image](https://github.com/divyanshu512-gif/Hotel-Booking/blob/439fade60cf810d07e7343eb5a49248ec37b5749/images/ADR%20per%20month.png)
