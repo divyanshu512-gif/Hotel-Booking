@@ -75,3 +75,5 @@ As can be seen, both the number of confirmed reservations and the number of canc
 whereas January is the month with the most canceled reservations.
 
 ---
+
+![image]
