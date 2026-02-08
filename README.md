@@ -87,4 +87,4 @@ Now, let's see which country has the highest reservation canceled. The top count
 ![image](https://github.com/divyanshu512-gif/Hotel-Booking/blob/55ea912647c5564e8a154be1160c4f44f4245ee5/images/Top%2010%20countries%20with%20reservation%20canceled.png)
 
 Let’s check the area from where guests are visiting the hotels and making reservations. Is it coming from Direct or Groups, Online or Offline Travel Agents?
-Around 46% of the clients come from online travel agencies, whereas
+Around 46% of the clients come from online travel agencies, whereas 27% come
