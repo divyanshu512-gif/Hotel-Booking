@@ -73,3 +73,5 @@ It goes without saying that weekends and holidays may see a rise in resort hotel
 We have developed the grouped bar graph to analyze the months with the highest and lowest reservation levels according to reservation status.
 As can be seen, both the number of confirmed reservations and the number of canceled reservations are largest in the month of August,
 whereas January is the month with the most canceled reservations.
+
+---
