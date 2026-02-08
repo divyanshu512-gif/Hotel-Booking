@@ -80,4 +80,6 @@ whereas January is the month with the most canceled reservations.
 
 This bar graph demonstrates that cancellations are most common when prices are least common when they are lowest. Therefore, the cost of the accommodation is solely responsible for the cancellation.
 
+---
+
 Now, let's see which country has the highest reservation canceled. The top country is Portugal with the highest number of cancellations.
