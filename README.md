@@ -83,3 +83,5 @@ This bar graph demonstrates that cancellations are most common when prices are l
 ---
 
 Now, let's see which country has the highest reservation canceled. The top country is Portugal with the highest number of cancellations.
+
+![image]
