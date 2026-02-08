@@ -84,4 +84,4 @@ This bar graph demonstrates that cancellations are most common when prices are l
 
 Now, let's see which country has the highest reservation canceled. The top country is Portugal with the highest number of cancellations.
 
-![image]()
+![image](https://github.com/divyanshu512-gif/Hotel-Booking/blob/55ea912647c5564e8a154be1160c4f44f4245ee5/images/Top%2010%20countries%20with%20reservation%20canceled.png)
