@@ -88,3 +88,6 @@ Now, let's see which country has the highest reservation canceled. The top count
 
 Let’s check the area from where guests are visiting the hotels and making reservations. Is it coming from Direct or Groups, Online or Offline Travel Agents?
 Around 46% of the clients come from online travel agencies, whereas 27% come from groups. Only 4% of clients book hotels directly by visiting them and making reservations.
+
+---
+
