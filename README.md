@@ -93,4 +93,4 @@ Around 46% of the clients come from online travel agencies, whereas 27% come fro
 
 ![image](https://github.com/divyanshu512-gif/Hotel-Booking/blob/04ff1def9af0d214a47c45612b32ded8cad20a0d/images/Average%20Daily%20Rate.png)
 
-As seen in the graph, reservations are canceled when the average daily rate is higher than when it is not canceled. It clearly proves all the above analysis, that
+As seen in the graph, reservations are canceled when the average daily rate is higher than when it is not canceled. It clearly proves all the above analysis, that the higher
