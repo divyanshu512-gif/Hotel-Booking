@@ -91,3 +91,4 @@ Around 46% of the clients come from online travel agencies, whereas 27% come fro
 
 ---
 
+![image]
