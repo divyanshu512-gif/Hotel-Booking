@@ -99,4 +99,4 @@ As seen in the graph, reservations are canceled when the average daily rate is h
 
 ## Suggestions
 
-**1**. Cancellation rates rise as the price does. In order
+**1**. Cancellation rates rise as the price does. In order to
