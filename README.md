@@ -97,3 +97,4 @@ As seen in the graph, reservations are canceled when the average daily rate is h
 
 ---
 
+## Suggestion
