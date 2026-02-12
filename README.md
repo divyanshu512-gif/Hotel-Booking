@@ -99,4 +99,4 @@ As seen in the graph, reservations are canceled when the average daily rate is h
 
 ## Suggestions
 
-**1**. Cancellation rates rise as the price does. In order to prevent cancellations of reservations, hotels could work on thier pricing strategies and try to lower the rates for specific hotels based on locations. They can also provide some discounts to the
+**1**. Cancellation rates rise as the price does. In order to prevent cancellations of reservations, hotels could work on thier pricing strategies and try to lower the rates for specific hotels based on locations. They can also provide some discounts to the consumer
