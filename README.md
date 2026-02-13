@@ -101,4 +101,4 @@ As seen in the graph, reservations are canceled when the average daily rate is h
 
 **1**. Cancellation rates rise as the price does. In order to prevent cancellations of reservations, hotels could work on thier pricing strategies and try to lower the rates for specific hotels based on locations. They can also provide some discounts to the consumers.
 
-**2**. As the ratio of the cancellation and not cancellation of the resort hotel is higher in the resort hotel than the city hotels. So the hotels should provide a reasonable discount on the room prices on the room prices
+**2**. As the ratio of the cancellation and not cancellation of the resort hotel is higher in the resort hotel than the city hotels. So the hotels should provide a reasonable discount on the room prices on the room prices on
