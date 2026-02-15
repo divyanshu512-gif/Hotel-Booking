@@ -103,4 +103,4 @@ As seen in the graph, reservations are canceled when the average daily rate is h
 
 **2**. As the ratio of the cancellation and not cancellation of the resort hotel is higher in the resort hotel than the city hotels. So the hotels should provide a reasonable discount on the room prices on the room prices on weekends or on holidays.
 
-**3**. In the month of january, hotels can start campaigns or marketing with a reasonable amount to increase thier
+**3**. In the month of january, hotels can start campaigns or marketing with a reasonable amount to increase thier revenue
