@@ -105,4 +105,4 @@ As seen in the graph, reservations are canceled when the average daily rate is h
 
 **3**. In the month of january, hotels can start campaigns or marketing with a reasonable amount to increase thier revenue as the cancellation is the higest in this month. 
 
-**4**. They can also increase the quantity
+**4**. They can also increase the quantity of
